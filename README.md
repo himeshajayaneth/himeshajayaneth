@@ -79,6 +79,7 @@
 
 ## 🤝 Connect with me
 <p align="left">
+  <a href="https://t.me/himeshajayaneth" target="_blank"><img src="https://img.icons8.com/fluency/48/telegram-app.png" alt="Telegram"></a>
   <a href="https://www.linkedin.com/in/himeshajayaneth/" target="_blank"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"></a>
   <a href="https://www.facebook.com/himesha.jayaneth/" target="_blank"><img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook"></a>
   <a href="https://www.instagram.com/himeshajayaneth/" target="_blank"><img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"></a>
