@@ -32,6 +32,7 @@
 </p>
 
 ### 🖥️ Operating Systems
+### 🖥️ Operating Systems
 <p align="left">
   <img src="https://img.icons8.com/fluency/48/windows-10.png" title="Windows"/>
   <img src="https://img.icons8.com/color/48/mac-logo.png" title="macOS"/>
@@ -39,11 +40,10 @@
   <img src="https://img.icons8.com/fluency/48/android-os.png" title="Android"/>
   <img src="https://img.icons8.com/color/48/kali-linux.png" title="Kali Linux"/>
   <img src="https://img.icons8.com/color/48/linux-mint.png" title="Linux Mint"/>
-  <img src="https://img.icons8.com/color/48/parrot-security-os.png" title="Parrot OS"/>
-  </p>
+  <img src="https://raw.githubusercontent.com/himeshajayaneth/himeshajayaneth/main/parrot-icon.png" onerror="this.src='https://img.icons8.com/color/48/linux--v1.png'" title="Parrot OS"/>
 </p>
-
 ---
+
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -53,9 +53,8 @@
 </p>
 
 ---
----
-
-## 📊 GitHub Analytics & Achievements
+### 🐍 My Contributions in Snake
+![github contribution grid snake animation](https://raw.githubusercontent.com/himeshajayaneth/himeshajayaneth/output/github-contribution-grid-snake.svg)
 
 ### 🏆 GitHub Trophies
 <p align="center">
