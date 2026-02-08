@@ -39,6 +39,7 @@
   <img src="https://img.icons8.com/fluency/48/android-os.png" title="Android"/>
   <img src="https://img.icons8.com/color/48/kali-linux.png" title="Kali Linux"/>
   <img src="https://img.icons8.com/color/48/linux-mint.png" title="Linux Mint"/>
+  <img src="https://img.icons8.com/color/48/parrot-security-os.png" title="Parrot OS"/>
   </p>
 </p>
 
