@@ -37,6 +37,9 @@
   <img src="https://img.icons8.com/color/48/mac-logo.png" title="macOS"/>
   <img src="https://img.icons8.com/color/48/ubuntu--v1.png" title="Ubuntu"/>
   <img src="https://img.icons8.com/fluency/48/android-os.png" title="Android"/>
+  <img src="https://img.icons8.com/color/48/kali-linux.png" title="Kali Linux"/>
+  <img src="https://img.icons8.com/color/48/linux-mint.png" title="Linux Mint"/>
+  </p>
 </p>
 
 ---
