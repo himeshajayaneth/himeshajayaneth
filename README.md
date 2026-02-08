@@ -31,7 +31,7 @@
   <img src="https://img.icons8.com/color/48/git.png" title="Git"/>
 </p>
 
-### 🖥️ Operating Systems
+
 ### 🖥️ Operating Systems
 <p align="left">
   <img src="https://img.icons8.com/fluency/48/windows-10.png" title="Windows"/>
@@ -41,7 +41,7 @@
   <img src="https://img.icons8.com/color/48/kali-linux.png" title="Kali Linux"/>
   <img src="https://img.icons8.com/color/48/linux-mint.png" title="Linux Mint"/>
 </p>
----
+
 
 
 ## 📊 GitHub Stats
