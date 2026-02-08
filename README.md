@@ -40,7 +40,6 @@
   <img src="https://img.icons8.com/fluency/48/android-os.png" title="Android"/>
   <img src="https://img.icons8.com/color/48/kali-linux.png" title="Kali Linux"/>
   <img src="https://img.icons8.com/color/48/linux-mint.png" title="Linux Mint"/>
-  <img src="https://raw.githubusercontent.com/himeshajayaneth/himeshajayaneth/main/parrot-icon.png" onerror="this.src='https://img.icons8.com/color/48/linux--v1.png'" title="Parrot OS"/>
 </p>
 ---
 
@@ -53,9 +52,6 @@
 </p>
 
 ---
-### 🐍 My Contributions in Snake
-![github contribution grid snake animation](https://raw.githubusercontent.com/himeshajayaneth/himeshajayaneth/output/github-contribution-grid-snake.svg)
-
 ### 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
