@@ -47,7 +47,7 @@
   &nbsp; 🌟 About Me 🌟
 </h2>
 
-<img align="right" alt="Coding" width="380" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73444e316d65727661472b6c4b4d614c46674e496e4f7031564553384e56692b7a6e444e7642784c527839695970306d486a6b534b4444682f6e6f2d6170702e676966">
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <br>
 
@@ -197,13 +197,19 @@
 <h2>📊🔥 GitHub Analytics Dashboard 🔥📊</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=himeshajayaneth&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff1744&icon_color=ff6f00&text_color=ffffff&ring_color=ff1744&include_all_commits=true&count_private=true" alt="Himesha's Stats" />
+  <a href="https://github.com/himeshajayaneth">
+    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=himeshajayaneth&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff1744&icon_color=ff6f00&text_color=ffffff&include_all_commits=true&count_private=true&cache_seconds=86400" alt="Himesha's Stats" />
+  </a>
   &nbsp;
-  <img width="49%" src="https://streak-stats.demolab.com?user=himeshajayaneth&theme=radical&hide_border=true&background=0D1117&ring=FF1744&fire=FF6F00&currStreakLabel=FF1744&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&stroke=FF1744" alt="GitHub Streak" />
+  <a href="https://github.com/himeshajayaneth">
+    <img width="49%" src="https://streak-stats.demolab.com?user=himeshajayaneth&theme=radical&hide_border=true&background=0D1117&ring=FF1744&fire=FF6F00&currStreakLabel=FF1744&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&stroke=FF1744" alt="GitHub Streak" />
+  </a>
 </p>
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himeshajayaneth&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff1744&text_color=ffffff&langs_count=10" alt="Top Languages" />
+  <a href="https://github.com/himeshajayaneth">
+    <img width="42%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=himeshajayaneth&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff1744&text_color=ffffff&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+  </a>
 </p>
 
 <!-- ✦═════════════ 📈 CONTRIBUTION GRAPH 📈 ═══════════════════════✦ -->
@@ -217,7 +223,9 @@
 
 <h3>🏆🥇 GitHub Trophies 🥇🏆</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=himeshajayaneth&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="Trophies" />
+  <a href="https://github.com/himeshajayaneth">
+    <img src="https://github-profile-trophy.vercel.app/?username=himeshajayaneth&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7&rank=-?" alt="Trophies" />
+  </a>
 </p>
 
 <!-- ✦═════════════ 🌈 RAINBOW DIVIDER 🌈 ══════════════════════════✦ -->
@@ -263,8 +271,8 @@
 <h2>🚀💎 Featured Projects 💎🚀</h2>
 
 <p align="center">
-  <a href="https://github.com/himeshajayaneth?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himeshajayaneth&repo=himeshajayaneth&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff1744&icon_color=ff6f00&text_color=ffffff" alt="Pinned Repo" />
+  <a href="https://github.com/himeshajayaneth/himeshajayaneth">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=himeshajayaneth&repo=himeshajayaneth&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff1744&icon_color=ff6f00&text_color=ffffff&cache_seconds=86400" alt="Pinned Repo" />
   </a>
 </p>
 
@@ -376,7 +384,10 @@
 
 <h3>😂🤣 Random Dev Meme 🤣😂</h3>
 <p align="center">
-  <img src="https://randommeme-five.vercel.app/" width="500" alt="Random Meme" />
+  <img src="https://memer-new.vercel.app/" width="500" alt="Random Meme" />
+</p>
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder&bgColor=%230d1117&qColor=%23ff1744&aColor=%23ffffff" alt="Dev Joke" />
 </p>
 
 <!-- ✦═════════════ 🌈 RAINBOW DIVIDER 🌈 ══════════════════════════✦ -->
